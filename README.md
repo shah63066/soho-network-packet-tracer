@@ -36,7 +36,7 @@ This project demonstrates the design and simulation of a multi-floor hotel netwo
 ---
 
 ## 🖥️ Network Topology
-![Network Topology](soho.png)
+![Network Topology](Hotel Network Infrastructure Design.png)
 
 ---
 
